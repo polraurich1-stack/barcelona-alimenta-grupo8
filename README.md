@@ -58,7 +58,7 @@ Todos los miembros revisan los entregables y participan en la presentación oral
 
 - **Plan completo** (WBS, PERT, Gantt, Kanban, riesgos y RACI): [`docs/plan.md`](docs/plan.md)
 - **Cálculo PERT en Excel** (ruta crítica, holguras, fechas y probabilidad de plazo): [`docs/pert.xlsx`](docs/pert.xlsx)
-- **Tablero Kanban y Roadmap** (GitHub Projects): TABLERO_URL
+- **Tablero Kanban y Roadmap** (GitHub Projects): [Kanban](https://github.com/users/polraurich1-stack/projects/1/views/1) · [Tabla](https://github.com/users/polraurich1-stack/projects/1/views/2) · [Roadmap (Gantt)](https://github.com/users/polraurich1-stack/projects/1/views/3)
 - **Calendario:** inicio el 22/10/2026 y fin previsto el 18/01/2027, sin trabajo planificado en las vacaciones de Navidad (23/12–06/01). Ruta crítica: A → C → D → K → L → M → O (≈ 10,7 semanas).
 
 ## 6. Estructura del repositorio

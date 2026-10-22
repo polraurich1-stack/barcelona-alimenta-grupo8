@@ -126,17 +126,17 @@ gantt
 
 ## 4. Tablero Kanban (GitHub Projects)
 
-El tablero está enlazado desde el [README](../README.md#5-planificación). Tiene una issue por cada actividad (A–O), con su descripción, predecesoras, estimación y fechas.
+El tablero es público: [GitHub Project «Barcelona Alimenta - Grupo 8»](https://github.com/users/polraurich1-stack/projects/1). Tiene una issue por cada actividad (A–O), con su descripción, predecesoras, estimación y fechas.
 
 - **Columnas (Status):** Por hacer · En curso · En revisión · Hecho. Cada persona tiene como máximo 2 o 3 tarjetas en «En curso».
 - **Etiquetas de área:** `reto`, `diseño`, `costes-riesgos`, `stakeholders`, `prototipo`, `entrega`.
 - **Etiquetas de estado:** `crítica` (ruta crítica) y `urgente` (para usar cuando haga falta).
 - **Etiquetas de responsable:** `resp: Oriol`, `resp: Xavier`, `resp: Hèctor`, `resp: Pol`, `resp: Todos`.
-- **Campos:** Inicio y Fin (fechas de la tabla siguiente), Responsable y Área.
+- **Campos:** Inicio y Fin, con las fechas de la tabla siguiente. El responsable y el área se ven en las etiquetas de cada tarjeta.
 - **Vistas:**
   - **Kanban** (por Status).
-  - **Roadmap**, que sirve de Gantt vivo.
-  - **Tabla.**
+  - **Tabla**, con etiquetas y fechas.
+  - **Roadmap (Gantt)**, que sirve de Gantt vivo.
 - **Rutina:** una reunión semanal de 15 minutos para mover tarjetas, actualizar fechas si algo se retrasa y revisar la ruta crítica.
 
 Las fechas son inclusivas: el día de fin es el último día de trabajo.
