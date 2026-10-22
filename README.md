@@ -2,6 +2,7 @@
 **Dashboard de acceso a alimentación sostenible y de proximidad en los barrios de Barcelona**
 
 **Enfoque:** Barcelona (ciudad, 73 barrios) · **Tema:** alimentación urbana
+
 **Asignatura:** Gestión de Proyectos (UAB 2026/27) · **Grupo:** 8 — Oriol Carbó Molera (1795282) · Xavier Vara Anido (1795681) · Hèctor Villanueva Azuara (1790820) · Pol Raurich Barba (1795396)
 
 ---
